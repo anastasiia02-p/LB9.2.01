@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB9.2.01\LB9.2.01\main.cpp(12,9): warning C4005: 'PRINTI': macro redefinition
+      D:\універ\лаби з алгоритмізації і програмування\LB9.2.01\LB9.2.01\main.cpp(10,9):
+      see previous definition of 'PRINTI'
+  
+  LB9.2.01.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB9.2.01\x64\Debug\LB9.2.01.exe
